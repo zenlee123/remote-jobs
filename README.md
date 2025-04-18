@@ -595,6 +595,7 @@ Name | Website | Region
 [Predict Mobile](/company-profiles/predict-mobile.md) | https://predictmobile.com/ | UK
 [Prelude](/company-profiles/prelude.md) | https://www.prelude.co/ | USA
 [PreviousNext](/company-profiles/previousnext.md) | https://www.previousnext.com.au/ | Australia
+[PPT.AI](/company-profiles/pptai.md) | https://ppt.ai/careers | USA
 [Prezi](/company-profiles/prezi.md) | https://prezi.com/jobs/ | Europe, North America
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
 [PricewaterhouseCoopers](/company-profiles/pwc.md) | https://www.pwc.com | USA
